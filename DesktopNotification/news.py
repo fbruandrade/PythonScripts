@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import feedparser
 import notify2
 import time
